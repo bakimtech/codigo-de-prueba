@@ -1,0 +1,10 @@
+.welcomeuser {
+    font-family: var(--Inter);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0.25px;
+    text-align: left;
+
+}
+
